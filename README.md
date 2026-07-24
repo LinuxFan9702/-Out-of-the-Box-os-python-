@@ -1,2 +1,2 @@
-# -Out-of-the-Box-os-python-
-Its a side prodject im working on in python, its a "terminal" thingly I'm working on
+# Out of the Box os python
+# Notes, this is somthing that contains Code form AI, not saying its fully coded by AI, Ai was only used for helping with #finding imports for features and also help with finding bugs in code. so its Some what Vibe Coded, not fully!
