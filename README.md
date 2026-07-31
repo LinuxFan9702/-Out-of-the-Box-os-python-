@@ -4,7 +4,7 @@
 
 Notes, this is something that contains Code form AI, not saying its fully coded by AI, Ai was only used for helping with #finding imports for features and also help with finding bugs in code. so its Some what Vibe Coded, not fully!
 
-This is Super Simple,and  one time thing for fun
+This is Super Simple and one time thing for fun!
 
 # Index.html Preview
 
